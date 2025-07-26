@@ -1,57 +1,73 @@
-# Hi, I’m Nikhil Patil 👋
+# 👨‍💻 Nikhil Patil
 
-🎓 **Final year engineering student** passionate about cloud, DevOps, and AI automation. I love building tools that solve real problems — from AI-powered flashcard generators to smart environment file managers.
-
----
-
-## 🚀 About Me
-
-- 🧑‍💻 Currently focused on:  
-  - Cloud & DevOps (AWS learning path)  
-  - AI tool development  
-  - Workflow & API automation
-
-- 💡 I enjoy turning ideas into practical products, whether it’s for personal use, open source, or just for fun!
+**Final Year IT Engineering Student | Full-Stack Developer | Learning Cloud + AI | Building Useful Stuff**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Top Skills & Tech Stack
 
-- **Languages:** JavaScript, Python, Bash  
-- **Frameworks/Stacks:** MERN, Node.js, Express, React  
-- **Tools:** Git, Docker, Supabase, n8n, Vercel, Firebase  
-- **Cloud & DevOps:** AWS (learning), CI/CD basics, API integration  
-- **Other:** Prompt Engineering, UI Design (Tailwind, Framer Motion), VS Code
-
----
-
-## 🌱 Current Projects
-
-- **AI Flashcard Generator**  
-  MERN-based app with GPT-4 integration to create flashcards from study material (PDFs, images, videos).
-
-- **EnvSync**  
-  CLI tool to securely sync and manage `.env` files across team projects.
-
-- **Daily Workflow Automation (n8n)**  
-  Building real-world workflows for automating team reporting and performance tracking via Google Workspace.
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **DevOps / Deployment:** Vercel, Netlify, Git, GitHub
+- **Tools:** n8n, Supabase, Google Cloud (beginner), VS Code, Postman
+- **Soft Skills:** Communication, problem-solving, collaboration, documentation
 
 ---
 
-## 🌐 Connect with Me
+## 💼 Current Role
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nikhil-patil](https://www.linkedin.com/in/nikhil-patil-139137258/)) 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/nikkkhil2935)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
+**Student** — B.E. in Information Technology  
+*Vidyavardhini College of Engineering and Technology, Vasai*  
+CGPA: 7.08 (Expected Graduation: June 2026)  
+Active member of the C3 Committee and college badminton team.
 
----
-
-## 🤓 Fun Facts
-
-- I make custom apps and comics for people I love  
-- Occasionally obsessed with cleaning up messy dashboards  
-- Trying to gain weight without eating like a cow 😆
+**Web Development Intern** — CodSoft (June–July 2024)  
+Built responsive, real-time web apps using React, optimized UX, integrated APIs, and handled full-stack development.
 
 ---
 
-> *Let’s build something awesome together!*
+## 🚀 Projects You Should Know About
+
+- **[ReviseAI](https://reviseai.vercel.app/)**  
+  AI-powered business idea validation tool  
+  _From landing page to MVP, this platform walks users through building lean, testable startup concepts_
+
+- **[Maria Bakery](https://mariabakery.vercel.app/)**  
+  Full-stack e-commerce style bakery website  
+  _Inventory management, ratings, reviews, and order form_
+
+- **AI Flashcard Generator** (in progress)  
+  MERN stack app using GPT-4 to auto-generate flashcards from PDFs, images, and videos.  
+  _Includes gamified quiz mode and performance dashboard._
+
+---
+
+## 🧠 Learning Goals
+
+- Learning Cloud Engineering and DevOps to be job-ready by end of 2025
+- Experimenting with AI integrations, automation workflows (n8n), and building full-stack apps that solve real problems
+
+---
+
+## 🏓 Fun Facts & Interests
+
+- Into badminton, meme culture, anime
+- Love making personal projects for my people (especially Tejal 😏❤️)
+- Building tools that are actually useful, not just shiny
+
+---
+
+## 🌐 Links
+
+- **GitHub:** [nikkkhil2935](https://github.com/nikkkhil2935)
+- **LinkedIn:** [nikhil-patil-139137258](https://www.linkedin.com/in/nikhil-patil-139137258/)
+- **Projects:** [reviseai.vercel.app](https://reviseai.vercel.app), [mariabakery.vercel.app](https://mariabakery.vercel.app)
+
+---
+
+## 🏅 Extra
+
+- Comfortable with Vercel and Netlify deployments
+- Strong documentation, user-focused UI, and iterative development
+- Actively exploring open-source and hackathon-level projects
+- Open to internships or remote roles in full-stack, automation, or cloud domains
