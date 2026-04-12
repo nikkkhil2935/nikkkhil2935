@@ -1,32 +1,100 @@
-<h1 align="center">Hi 👋, I'm Nikhil Patil</h1>
-<h3 align="center">Final Year B.E. IT Student @ VCET, Mumbai</h3>
+<h1 align="center">Hey 👋 I'm Nikhil Patil</h1>
+<h3 align="center">Full Stack Developer · AI/DevOps Enthusiast · Final Year B.E. IT @ VCET Mumbai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkkhil2935&label=Profile%20views&color=0e75b6&style=flat" alt="nikkkhil2935" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkkhil2935" alt="nikkkhil2935" /></a> </p>
-
-- 🔭 I’m currently working on [AI Flashcard Generator](Generate smart flashcards from PDFs, images, and videos. Duolingo-inspired UI with quiz and dashboard.)
-
-- 👯 I’m looking to collaborate on [ReviseAI AI-powered business idea validator — from free call to MVP testing with Lean Startup flow.](https://reviseai.vercel.app/)
-
-- 🤝 I’m looking for help with [Maria Bakery E-commerce bakery storefront with clean UI/UX, live inventory, order form.](https://mariabakery.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://nikhilpatil.vercel.app/](https://nikhilpatil.vercel.app/)
-
-- 📫 How to reach me **nikhilpatil29032005@gmail.com**
-
-- ⚡ Fun fact **I build meaningful things for people I care about (like a bakery website for my neighborhood and an AI tool for students) 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nikhilpatil2935/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkedin.com/in/nikhil-patil-139137258/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://nikhilpatil.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nikhilpatil2935" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nikhilpatil29032005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nikkkhil2935&style=for-the-badge&color=2563EB" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikkkhil2935&show_icons=true&locale=en&layout=compact" alt="nikkkhil2935" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikkkhil2935&show_icons=true&locale=en" alt="nikkkhil2935" /></p>
+- 🏆 **Coherence 2026 — Top 5 Finalist** with [FlowReach AI](https://nikhilpatil.vercel.app)
+- 🔭 Currently building **ResumeForge AI** — a Chrome extension that scrapes LinkedIn/Naukri JDs, rewrites resume bullets with Groq LLaMA 3.3 70B, scores ATS fit, and exports a PDF in one click
+- 🧠 Also working on **PhishGuard** — an ensemble ML phishing detector (XGBoost + LightGBM + BiLSTM + GNN with meta-learner stacking)
+- 🎓 Final Year B.E. IT student at VCET, Vasai — graduating June 2026
+- ☁️ Actively pursuing **Cloud Engineering & DevOps** — hands-on with Docker, Kubernetes, Prometheus, GCP
+- ⚡ Fun fact: I build meaningful things for people I care about — from bakery e-commerce to AI tools for students 😄
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikkkhil2935&" alt="nikkkhil2935" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### AI & ML
+![Groq](https://img.shields.io/badge/Groq_LLaMA_3.3_70B-FF4B00?style=flat-square&logo=meta&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔁 **[FlowReach AI](https://nikhilpatil.vercel.app)** | Visual workflow builder for AI-powered multi-channel outreach. 22 node types, 51+ endpoints, 5 channels (Email, Discord, Telegram, Slack, SMS). **Coherence 2026 Top 5** | React, Express, Supabase, Groq, Socket.io |
+| 🧠 **CareerBridge AI** | Full-stack AI career platform — voice mock interviews, ML job-match scoring (XGBoost, DistilBERT, LightGBM), 62+ endpoints, 15 DB tables. **MEGAHACK 2026** | React, Node, Supabase, Groq, ElevenLabs, Whisper |
+| 🔍 **ResumeForge AI** | Chrome extension that scrapes LinkedIn/Naukri JDs, rewrites resumes with LLaMA 3.3 70B, ATS scoring, PDF export | Chrome Extension, Groq, TypeScript |
+| 🎣 **PhishGuard** | Ensemble ML phishing URL detector — XGBoost + LightGBM + BiLSTM + GNN with meta-learner stacking, 235k+ rows | Python, XGBoost, LightGBM, PyTorch |
+| ☁️ **IntelliScaleSim** | Intelligent cloud auto-scaling simulator with real-time observability and Groq-powered recommendations. **B.E. Final Year Project** | FastAPI, React/TS, Docker, Prometheus, Grafana |
+| 🤖 **KubeGuard** | Self-healing Kubernetes observability platform — HPA, Prometheus, AlertManager, Discord webhooks, IsolationForest anomaly detection. **VCET DevOps Hackathon 2026** | Kubernetes, Prometheus, Python, ML |
+| 🏢 **VC Scout** | Live AI enrichment pipeline for VC deal flow — Kanban pipeline, Cmd+K palette, 52 automated UI tests | Next.js 14, Gemini 1.5 Flash, Supabase |
+
+---
+
+## 🏆 Hackathon Achievements
+
+- 🥇 **Coherence 2026** — Top 5 Finalist · *FlowReach AI*
+- 🚀 **MEGAHACK 2026** — Team S8UL · *CareerBridge AI*
+- ⚙️ **VCET DevOps Hackathon 2026** — Track 3: DevOps & Observability · *KubeGuard*
+- 💡 **HackX 2.0 — SFIT** · Bharat 5.0 Theme · Team S8UL
+- 🌐 **Hacknight 4.0** · *360° Restaurant Oracle* (Social Listening + Multi-framework AI)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikkkhil2935&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikkkhil2935&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikkkhil2935&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to full-time roles in Cloud Engineering, DevOps, or Full Stack — graduating June 2026 👀</i>
+</p>
